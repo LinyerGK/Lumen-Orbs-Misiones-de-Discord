@@ -1,0 +1,6 @@
+customtkinter
+pypresence
+psutil
+pyinstaller
+Pillow
+requests

@@ -1,0 +1,32 @@
+{
+    "Skate": {
+        "process_name": "skate.exe",
+        "app_id": "1416171554890580152",
+        "icon": "31f678d1b9a96f0b6484367568dfd213"
+    },
+    "Fortnite": {
+        "process_name": "fortniteclient-win64-shipping_eac_eos.exe",
+        "app_id": "432980957394370572",
+        "icon": "c1864b38910c209afd5bf6423b672022"
+    },
+    "Arena Breakout: Infinite": {
+        "process_name": "uagame.exe",
+        "app_id": "1238113262969557002",
+        "icon": "0785baa7c08a9001079c329eb084b0ae"
+    },
+    "Rocket League": {
+        "process_name": "rocketleague.exe",
+        "app_id": "356877880938070016",
+        "icon": ""
+    },
+    "Apex Legends": {
+        "process_name": "r5apex.exe",
+        "app_id": "458607997171040256",
+        "icon": ""
+    },
+    "Minecraft": {
+        "process_name": "minecraft.exe",
+        "app_id": "356943499456937985",
+        "icon": ""
+    }
+}
