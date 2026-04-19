@@ -8,14 +8,12 @@ def build():
     command = [
         "pyinstaller",
         "--noconfirm",
-        "--onedir",
+        "--onefile",
         "--windowed",
         "--icon", "assets/icon.ico",
         "--name", "Lumen Orbs",
-        "--hidden-import", "pypresence",
-        "--hidden-import", "psutil",
-        "--hidden-import", "customtkinter",
         "--add-data", "assets;assets/",
+        "--add-data", "games.json;.",
         "src/main.py"
     ]
     

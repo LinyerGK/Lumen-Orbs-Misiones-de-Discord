@@ -1,4 +1,4 @@
-# Lumen Orbs 🎮 — Discord Quest Simulator
+# Lumen Orbs 🎮 — Discord Quest Simulator (by Linyer)
 
 Lumen Orbs es una herramienta de simulación de alto rendimiento diseñada para automatizar el progreso de las **Discord Quests**. Utiliza un motor de procesos fantasma (Ghost Engine) y Rich Presence para simular actividad real de juego sin consumir recursos significativos.
 
@@ -48,4 +48,4 @@ Lumen Orbs es una herramienta de simulación de alto rendimiento diseñada para 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-*Desarrollado con ❤️ para la comunidad de Discord.*
+*Desarrollado con ❤️ por **Linyer** para la comunidad de Discord.*
